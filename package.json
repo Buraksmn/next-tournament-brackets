@@ -1,6 +1,6 @@
 {
   "name": "@buraksmn/react-tournament-brackets-updated",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "A react component to visualize bracket leaderboards",
   "main": "dist/bundle.js",
   "types": "dist/index.d.ts",
