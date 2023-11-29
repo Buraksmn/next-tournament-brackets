@@ -52,8 +52,9 @@ module.exports = {
     path: BUILD_DIR,
     publicPath: '/',
     filename: 'bundle.js',
-    library: '@g-loot/react-tournament-brackets',
+    library: '@buraksmn/react-tournament-brackets-updated',
     libraryTarget: 'umd',
+    globalObject: 'this',
   },
   externals: {
     'styled-components': {
